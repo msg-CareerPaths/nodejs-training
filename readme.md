@@ -2,7 +2,7 @@
 
 ## Contents
 
- - [0. Introduction](https://github.com/msg-CareerPaths/nodejs-training/blob/main/chapters/000-introduction.md)
+ - [0. Introduction](https://github.com/msg-CareerPaths/nodejs-training/blob/main/chapters/000-intro.md)
  - [1. Node.js](https://github.com/msg-CareerPaths/nodejs-training/blob/main/chapters/100-nodejs.md)
  - [2. NestJS](https://github.com/msg-CareerPaths/nodejs-training/blob/main/chapters/200-nestjs.md)
  - [3. REST APIs](https://github.com/msg-CareerPaths/nodejs-training/blob/main/chapters/300-rest-api.md)
