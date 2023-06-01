@@ -11,6 +11,6 @@ Required Reading:
 
 Online Shop: 
 
- > Integrate TypeORM with PostgreSQL, in your NestJS application. You will essentially now be store your data within the database.
+ > Integrate TypeORM with PostgreSQL, in your NestJS application. You will now store your data within the database.
  > 
  > You can remove the old in-memory repository implementations.
