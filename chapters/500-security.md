@@ -5,6 +5,7 @@ Goal: Add user authentication and authorization to your backend.
 Required Reading:
 - [Security](https://docs.nestjs.com/openapi/security)
 - [Authentication](https://docs.nestjs.com/security/authentication)
+- [Guards](https://docs.nestjs.com/guards#guards)
 
 Online Shop:
 
