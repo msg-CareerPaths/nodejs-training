@@ -4,7 +4,7 @@ Goal: Learn how to run a simple Node.js program and debug it.
 
 Required Reading:
 
- - [Node.js: Getting started](https://nodejs.dev/run-nodejs-scripts-from-the-command-line)
+ - [Node.js: Getting started](https://nodejs.dev/en/learn/introduction-to-nodejs/)
 
 Online Shop: 
 
