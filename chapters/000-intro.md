@@ -32,14 +32,14 @@ All the code written must be published on GitHub.
 ## Timeline
 This timeline is just for guidance, take time to understand the concepts before moving on.
 
-- **Day 1**: Chapter 0, Chapter 1, Chapter 2, Chapter 3
-- **Day 2**: Chapter 4, Chapter 5
-- **Day 3**: Chapter 6, **Open a Pull Request**, Fix Review Remarks => Merge to Master => Create a new branch,
-- **Day 4**: Chapter 7, Chapter 8
-- **Day 5**: Chapter 9, Chapter 10
-- **Day 6**: Chapter 11, **Open a Pull Request**, Fix Review Remarks => Merge to Master => Create a new branch
-- **Day 7**: Chapter 12
-- **Day 8**: Optional Chapters or Fix Review Remarks/Refactor Code
+- **Day 1**: Chapter 0, Chapter 1, Chapter 2
+- **Day 2**: Chapter 3
+- **Day 3**: Chapter 4, 
+- **Day 4**: Chapter 5
+- **Day 5**: Chapter 5, Chapter 6, **Open a Pull Request**, Fix Review Remarks => Merge to Master => Create a new branch,
+- **Day 6**: Chapter 7
+- **Day 7**: Chapter 8, **Open a Pull Request**, Fix Review Remarks => Merge to Master => Create a new branch,
+- **Day 8**: Chapter 9, Optional Chapters or Fix Review Remarks/Refactor Code
 
 ## Notes
 - If you find any link broken, **please** inform your mentor to give you an alternative.
