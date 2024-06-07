@@ -18,7 +18,7 @@
 - [Connecting to your database locally](https://youtu.be/UjQiwonRMas)
 
 **Reading:**
-
+ - [What is an ORM](https://www.freecodecamp.org/news/what-is-an-orm-the-meaning-of-object-relational-mapping-database-tools/)
  - [TypeORM Documentation](https://typeorm.io)
  - [Integrating TypeORM with NestJS](https://docs.nestjs.com/techniques/database)
  - [Using PG with TypeORM](https://www.thisdot.co/blog/connecting-to-postgresql-using-typeorm)
