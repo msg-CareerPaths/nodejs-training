@@ -12,6 +12,7 @@
 **Videos:**
  - [Computer Science Concepts](https://www.youtube.com/watch?v=-uleG_Vecis)
  - [SSL, TLS, HTTPS](https://www.youtube.com/watch?v=j9QmMEWmcfo)
+ - [Functional Programming Concepts](https://youtu.be/nuML9SmdbJ4)
  - [Async, Await](https://www.youtube.com/watch?v=vn3tm0quoqE) (Note that Node.js uses a [V8 Engine](https://nodejs.org/en/learn/getting-started/the-v8-javascript-engine) for the Event Loop)
  - [TypeScript](https://www.youtube.com/watch?v=zQnBQ4tB3ZA)
 
