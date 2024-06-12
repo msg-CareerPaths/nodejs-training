@@ -3,7 +3,7 @@
 ## Description 
 First, I would like to start by emphasizing with reader that the following read is quite verbose, but I would like to ask that you read the following carefully.
 
-This is a roadmap/training for a introduction into the Angular Framework consisting of several steps.
+This is a roadmap/training for a introduction into the Node.js Framework consisting of several steps.
 In each step, a set of theoretical concepts are explored, supported by reference documentation, book chapters, tutorials and videos. 
 
 In parallel, a simple application will be built with the learned concepts: the *Online Shop* application.
