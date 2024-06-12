@@ -8,6 +8,7 @@
 **Videos:**
 - [NestJS in 100 seconds](https://www.youtube.com/watch?v=0M8AYU_hPas)
 - [Testing via Postman](https://youtu.be/Qcuxp7l50dg)
+- [Dependency Injection Explained](https://youtu.be/J1f5b4vcxCQ)
 
 **Reading:**
 
