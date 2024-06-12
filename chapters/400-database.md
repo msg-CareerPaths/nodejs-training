@@ -64,7 +64,7 @@ id: string;
 -------------------customer.domain.ts
 ------------/dto
 ------------/repository
------------------------customers.repository.ts
+-----------------------customer.repository.ts
 ```
 
 ## Further Resources
