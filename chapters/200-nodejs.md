@@ -30,7 +30,7 @@
 ## Online Shop: 
 
  > Debug your code:
- > - Add a new `start:debug` npm script to your package.json. This script should execute `node index.js --inspect-brk`. The `inspect-brk` switch instructs Node.js to listen on a debugging port for the debugger and to not start code execution before the debugger attaches.
+ > - Add a new `start:debug` npm script to your package.json. This script should execute `node --inspect-brk index.js`. The `inspect-brk` switch instructs Node.js to listen on a debugging port for the debugger and to not start code execution before the debugger attaches.
  > - Start this new script in a terminal.
  > - Place a breakpoint in your code.
  >  - If you are using VSCode, create a new VSCode debugging configuration (with the default `Node.js: Attach` settings) and start it.
