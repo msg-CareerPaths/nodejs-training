@@ -4,7 +4,7 @@
 - Learn how to run a simple Node.js program and debug it. 
 - Learn about the basic concepts required for web development. These are core fundamentals principles required to get started.
 - Learn how to program using JavaScript and TypeScript.
-- Understand how asynchronous code works.(**important**)
+- Understand how asynchronous code works. (**important**)
 
 
 ## Mandatory Materials:
@@ -31,16 +31,14 @@
 ## Online Shop: 
 
  > Debug your code:
- > - Add a new `start:debug` npm script to your package.json. This script should execute `node --inspect-brk index.js`. The `inspect-brk` switch instructs Node.js to listen on a debugging port for the debugger and to not start code execution before the debugger attaches.
- > - Start this new script in a terminal.
+ > - Add a new `start:debug` npm script to your package.json. This script should execute `node index.js --inspect-brk `. The `inspect-brk` switch instructs Node.js to listen on a debugging port for the debugger and to not start code execution before the debugger attaches.
  > - Place a breakpoint in your code.
- >  - If you are using VSCode, create a new VSCode debugging configuration (with the default `Node.js: Attach` settings) and start it.
- > - If you are using Webstorm, simply follow the following [link](https://blog.jetbrains.com/webstorm/2018/01/how-to-debug-with-webstorm/)
- > - Start the debugger.
+ > - If you are using VSCode, create a new VSCode debugging configuration (with the default `Node.js: Attach` settings) and start it.
+ > - If you are using WebStorm, simply follow [this link](https://blog.jetbrains.com/webstorm/2018/01/how-to-debug-with-webstorm/).
  
 ## Further Resources:
 
- - [Asynchronous programming in Node.js](https://codeforgeek.com/asynchronous-programming-in-node-js/)
- - [Debugging in VSCode](https://code.visualstudio.com/docs/editor/debugging)
+- [Asynchronous programming in Node.js](https://codeforgeek.com/asynchronous-programming-in-node-js/)
+- [Debugging in VSCode](https://code.visualstudio.com/docs/editor/debugging)
 - [TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/basic-types.html)
 - [JavaScript Tutorial: TheNewBoston](https://www.youtube.com/watch?v=yQaAGmHNn9s&list=PL46F0A159EC02DF82)
