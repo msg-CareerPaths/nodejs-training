@@ -9,7 +9,7 @@
 
 **Videos:**
 - [NestJS Unit Testing Controllers](https://youtu.be/lih9VT0IZ7U)
-- [NestJS Unit Testing Services](https://youtu.be/lih9VT0IZ7U)
+- [NestJS Unit Testing Services](https://youtu.be/dxTuOkgSKh4) 
 - [NestJS E2E Testing](https://youtu.be/LaJi0Gv6T3Q)
 
 **Reading:**
